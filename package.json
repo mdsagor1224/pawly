@@ -1,0 +1,4 @@
+{"name":"pawly","private":true,"version":"1.0.0","type":"module",
+"scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},
+"dependencies":{"gsap":"^3.12.5"},
+"devDependencies":{"sass":"^1.77.0","vite":"^5.4.0"}}
